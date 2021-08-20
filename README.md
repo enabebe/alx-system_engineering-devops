@@ -1,1 +1,1 @@
-0x00 shell basics project
+ALX School System Engineering & DevOps
