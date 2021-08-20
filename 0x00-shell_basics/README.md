@@ -35,4 +35,4 @@
 
 18-commas writes: a command that lists all the files and directories of the current directory, separated by commas (,).
 
-school.mgc: has to be created on Ubuntu 14.04 LTS
+school.mgc: has to be created on Ubuntu 13.04 LTS
